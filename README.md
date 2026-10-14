@@ -2,7 +2,7 @@
 
 These notes explain how AI applications are built and how they are attacked, one concept at a time. They follow one running example: an **AI order assistant inside a broker's trading app**.
 
-An investor types in plain English, for example "buy 10 Reliance at 2900 limit" or "sell half my Infosys". The assistant turns that into real broker actions. It starts as a single model call. Note by note, it learns to check orders, look up prices and holdings, read market news, remember preferences and place orders after the investor confirms. It then works with agents run by other companies, using only the powers the investor has granted. The course ends with a review of the whole system and the rules a broker must follow.
+An investor types in plain English, for example "buy 10 Reliance at 2900 limit" or "sell half my Infosys". The assistant turns that into real broker actions. It starts as a single model call. Note by note, it learns to check orders, look up prices and holdings, read market news and screenshots, remember preferences, filter its own replies and place orders after the investor confirms. It then works with agents run by other companies, using only the powers the investor has granted. The course ends with a review of the whole system and the rules a broker must follow.
 
 Each note adds one idea to the same assistant. Each note ends with a problem that the next note solves. The full order is in [Syllabus](00.%20Syllabus.md).
 
