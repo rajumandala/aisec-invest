@@ -30,4 +30,4 @@ Two appendix notes map the course to the OWASP Top 10 lists, one category at a t
 
 Prices, holdings and companies in the examples are made up unless a note says otherwise.
 
-After the course, [Part S: AI in the SDLC](https://github.com/rajumandala/adlc) looks at the team that builds the assistant using AI to write, review and test its code.
+After the course, [Part S: AI in the SDLC](https://github.com/rajumandala/adlc) looks at the team that builds the assistant using AI to write, review and test its code. [Part M: Model Supply Chain](https://github.com/rajumandala/ai-supplychain) then looks at the models it depends on.
