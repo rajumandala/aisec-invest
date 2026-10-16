@@ -6,7 +6,7 @@ An investor types in plain English, for example "buy 10 Reliance at 2900 limit" 
 
 Each note adds one idea to the same assistant. Each note ends with a problem that the next note solves. The full order is in [Syllabus](00.%20Syllabus.md).
 
-Two appendix notes map the course to the OWASP Top 10 lists, one category at a time: [A1. OWASP Top 10 for LLM Applications](A1.%20OWASP%20Top%2010%20for%20LLM%20Applications.md) and [A2. OWASP Top 10 for Agentic Applications](A2.%20OWASP%20Top%2010%20for%20Agentic%20Applications.md).
+Three appendix notes map the course to the OWASP Top 10 lists, one category at a time: [A1. OWASP Top 10 for LLM Applications](A1.%20OWASP%20Top%2010%20for%20LLM%20Applications.md), [A2. OWASP Top 10 for Agentic Applications](A2.%20OWASP%20Top%2010%20for%20Agentic%20Applications.md) and [A3. OWASP MCP Top 10](A3.%20OWASP%20MCP%20Top%2010.md).
 
 ## The market ideas these notes build on
 
