@@ -17,7 +17,7 @@ Each question has:
 - **Listen for:** what a strong answer contains. A guide, not a checklist to read out.
 - **Follow-ups:** where to go next.
 
-Red flags are listed at the end of each stage.
+Red flags are listed at the end of each stage. Sample strong answers to every question are in [answers.md](answers.md).
 
 ---
 
